@@ -8,13 +8,7 @@
 
 ## Installation
 
-This extension is large (24 MB) because it runs completely locally. Install it by downloading `markedit-proofreading.js` from the [latest release](https://github.com/MarkEdit-app/MarkEdit-proofreading/releases/latest) and copying it to:
-
-```
-~/Library/Containers/app.cyan.markedit/Data/Documents/scripts
-```
-
-Restart MarkEdit after copying the file.
+Install this extension from the [MarkEdit Extension Registry](https://markedit-app.github.io/extensions/#markedit-proofreading).
 
 ## Configuration
 
